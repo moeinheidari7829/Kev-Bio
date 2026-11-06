@@ -1,8 +1,5 @@
 # Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry
 
-[Moein Heidari](https://moeinheidari7829.github.io/), Junbo Rao, Yudan Chen, Yasamin Medghalchi, River Jiang, Wenjin Chen,
-David J. Foran, Jasmine Grewal, Ilker Hacihaliloglu
-
 [![arXiv](https://img.shields.io/badge/arXiv-2611.03360-b31b1b.svg)](https://arxiv.org/abs/2611.03360)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://moeinheidari7829.github.io/every-pixel/)
 

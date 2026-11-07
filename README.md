@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2611.03360-b31b1b.svg)](https://arxiv.org/abs/2611.03360)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://moeinheidari7829.github.io/every-pixel/)
 
-![Kev-Bio](assets/method.png)
+[![Kev-Bio teaser](assets/teaser_cover.jpg)](assets/teaser.mp4)
 
 **Kev-Bio** poses each clinical measurement as a question to a vision-language model initialised from
 [Kev](https://huggingface.co/jaredpalmer/kev-0.8b) (Qwen3.5-0.8B). The decision state of each question produces one
